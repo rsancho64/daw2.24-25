@@ -4,9 +4,17 @@ Contenidos curso IES Rio Arba en el curso 24-25 para 2º DAW - **despliegue weba
 
 ## miembros del curso
 
-|ray||
+|ray|https://github.com/rsancho64/daw2.24-25/tree/main|
 |-:|:-|
 | noe | https://github.com/noebeltran/daw2.24-25 |
+| unai | https://github.com/unaiccz/daw2.24-25|
+|sergio||
+|||
+|||
+|||
+|||
+|||
+
 
 ## eval 0. Nos dockerizamos
 
